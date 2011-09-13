@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/commons-codec-1.4.jar
+END
+httpmime-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/httpmime-4.1.2.jar
+END
+httpcore-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/httpcore-4.1.2.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/commons-logging-1.1.1.jar
+END
+httpclient-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/httpclient-4.1.2.jar
+END
+httpclient-cache-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Common/!svn/ver/4/novaClientJava/trunk/lib/httpclient-cache-4.1.2.jar
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Common/!svn/ver/4/novaClientJava/trunk/src
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Common/!svn/ver/6/novaClientJava/trunk/src/test.java
+END
+Sign.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/Sign.java
+END
+HttpMethodName.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/HttpMethodName.java
+END
+StopInstanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/StopInstanceRequest.java
+END
+ThorRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/ThorRequest.java
+END
+ThorRequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/ThorRequestUtils.java
+END
+CustomResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Common/!svn/ver/6/novaClientJava/trunk/src/CustomResponseHandler.java
+END
+OSRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Common/!svn/ver/6/novaClientJava/trunk/src/OSRequest.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Common/!svn/ver/5/novaClientJava/trunk/src/Credentials.java
+END
