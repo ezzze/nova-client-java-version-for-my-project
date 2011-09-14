@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request
+END
+StopInstanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/StopInstanceRequest.java
+END
+ThorRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/ThorRequest.java
+END
+OSRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/OSRequest.java
+END
+RegisterUserRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/RegisterUserRequest.java
+END
+ThorCloudRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/ThorCloudRequest.java
+END
+ThorAdminRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Request/ThorAdminRequest.java
+END

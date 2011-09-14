@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Utils
+END
+Sign.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Utils/Sign.java
+END
+ThorRequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Utils/ThorRequestUtils.java
+END
+CustomResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Utils/CustomResponseHandler.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Common/!svn/ver/8/novaClientJava/trunk/src/Utils/Credentials.java
+END
